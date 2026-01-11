@@ -179,7 +179,6 @@ This project is open source and available under the [MIT License](LICENSE).
 ## 🆘 Support
 
 - [PocketBase Discussions](https://github.com/pocketbase/pocketbase/discussions)
-- [Discord Community](https://discord.gg/pocketbase)
 - [GitHub Issues](https://github.com/pocketbase/pocketbase/issues)
 
 ---
