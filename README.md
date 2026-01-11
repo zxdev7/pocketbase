@@ -2,7 +2,7 @@
 
 A containerized deployment setup for PocketBase - an open-source backend solution that provides a realtime database, authentication, file storage, and admin dashboard in a single executable.
 
-[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/template/pocketbase?referralCode=bonus)
+[![Deploy on Railway](https://railway.com/button.svg)](https://railway.com/deploy/pocketbase-for-production?referralCode=Mq5C3m&utm_medium=integration&utm_source=template&utm_campaign=generic)
 
 ## 🚀 Features
 
